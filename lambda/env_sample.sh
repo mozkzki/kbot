@@ -3,7 +3,6 @@
 # cdk deploy 時に必要
 export CDK_AWS_ACCOUNT=dummy
 export CDK_AWS_REGION=ap-northeast-1
-export CDK_KBOT_LAMBDA_FUNCTION_VERSION=1
 export PHASE=dev
 
 # lambda 実行時に必要
